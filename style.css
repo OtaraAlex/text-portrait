@@ -15,7 +15,7 @@ body {
   .portrait {
     font-size: 10px;
     line-height: 10px;
-    background: url('alex.jpg') fixed center no-repeat;
+    background: url('https://github.com/OtaraAlex/typographic-portraiture/blob/master/alex.jpg') fixed center no-repeat;
     background-size: contain;
   }
   
