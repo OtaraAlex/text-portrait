@@ -8,4 +8,4 @@ https://otaraalex.github.io/typographic-portraiture/
 
 # Screenshots
 
-![por]{https://github.com/OtaraAlex/typographic-portraiture/issues/1#issue-1625348113}
+![por](https://user-images.githubusercontent.com/111053808/225297381-90d8b9db-547c-4ebb-9f1a-451b416f2865.jpg)
