@@ -1,27 +1,28 @@
-body {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-  
-  .wrapper {
-    height: 100vh;
-    background: #000;
-    /*This part is important for centering*/
-    display: grid;
-    place-items: center;
-  }
-  
-  .portrait {
-    font-size: 10px;
-    line-height: 10px;
-    background: url('https://github.com/OtaraAlex/typographic-portraiture/blob/master/alex.jpg') fixed center no-repeat;
-    background-size: contain;
-  }
-  
-  /* This part is important for the feature itself */
-  .portrait {
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: rgba(255,255,255,.1);
-  }
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+section
+{
+  height: 100vh;
+  overflow: hidden;
+  background: #000;
+}
+p
+{
+  position: relative;
+  font-size: 1.5em;
+  letter-spacing: -0.05em;
+  line-height: 0.7em;
+  background: url(alex.jpg),url(alex.jpg);
+  background-blend-mode: color-dodge;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  -webkit-background-clip: text;
+  color: transparent;
+}
