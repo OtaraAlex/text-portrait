@@ -4,7 +4,7 @@ This repository shows how to generate a text portrait using pure CSS & HTML.
 
 # Live link
 
-https://otaraalex.github.io/typographic-portraiture/
+https://otaraalex.github.io/text-portrait/
 
 # Screenshots
 
